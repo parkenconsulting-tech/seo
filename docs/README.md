@@ -8,6 +8,7 @@
 ### Website Loading Speed
 - NGINX gzip_static - Precompressed Files
 - [NGINX FastCGI Cache](https://devops.parkenconsulting.com/guide/nginx-fastcgi-cache-laravel.html)
+- [Browser Cache](https://devops.parkenconsulting.com/guide/nginx-browser-cache-like-cdn.html)
 
 
 #### Backend
