@@ -13,3 +13,11 @@
 #### Backend
 - Banyan SEO, SEMRush
 - EagleSearch, Algolia
+
+### Developers
+
+- Staging Environment for Testing before Release
+- Automating Deployment with Github Webhooks
+
+## Google Compat
+- Submiting sitemap to Webmaster tools
