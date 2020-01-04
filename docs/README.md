@@ -1,6 +1,9 @@
 # Parken Consulting - SEO Docs
 
-## Technologies Used
+## SEO Basics
+- [Favicon & App Icon Generator](https://devops.parkenconsulting.com/guide/favicon-and-app-icon-generator.html)
+
+## SEO Technologies Used
 
 #### Frontend
 - Laravel
