@@ -1,7 +1,7 @@
 # Parken Consulting - SEO Docs
 
 ## SEO Basics
-- [Favicon & App Icon Generator](https://devops.parkenconsulting.com/guide/favicon-and-app-icon-generator.html)
+- [Favicon & App Icon Generator](https://seo.parkenconsulting.com/guide/favicon-and-app-icon-generator.html)
 
 ## SEO Technologies Used
 
