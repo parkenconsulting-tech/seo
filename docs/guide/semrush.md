@@ -12,3 +12,5 @@
 - Alexa
 - SimilarWeb
 - Hasoffers
+- webceo
+- screamingfrog.co.uk
