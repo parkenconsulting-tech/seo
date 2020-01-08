@@ -25,3 +25,8 @@
 
 ## Google Compat
 - Submiting sitemap to Webmaster tools
+
+
+## References:
+ - [https://www.linkedin.com/in/nitin-rustagi-1118b252/?originalSubdomain=in](https://www.linkedin.com/in/nitin-rustagi-1118b252/?originalSubdomain=in)
+ - [https://entrackr.com/2017/09/1mg-leverages-content-drive-commerce/](https://entrackr.com/2017/09/1mg-leverages-content-drive-commerce/)
