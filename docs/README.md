@@ -5,6 +5,8 @@
 
 ## SEO Technologies Used
 
+- Business Based SEO - Target the geographic backlinks and set daily targets with the keywords recent customers searched for and searched location
+
 #### Frontend
 - Laravel
 
